@@ -25,6 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <title> time table </title>
@@ -144,10 +145,11 @@
 </TABLE>
 </body>
 </html>
-
+```
 
 
 ## OUTPUT
+![alt text](<Screenshot 2024-04-22 230203.png>)
 
 
 ## RESULT
