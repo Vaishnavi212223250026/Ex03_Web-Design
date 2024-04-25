@@ -31,6 +31,7 @@
 <title> time table </title>
 </head>
 <body> 
+  <img src = "D:\vasan\saveetha logo.png"height="90" width="1000">
     <FONT SIZE="5"  COLOR="ORANGE" ALIGN="CENTER"> SLOT TME TABLE </FONT>
  <TABLE BORDER="2" ALIGN="CENTER" BGCOLOR= "TURQUOISE" ">
 <TR BGCOLOR="RED">
